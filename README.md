@@ -1,0 +1,16 @@
+lab7a-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7a.png
+lab7aa-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7aa.png
+lab7b-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7b.png
+lab7b1-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7b1.png
+lab7b2-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7b2.png
+lab7bb-o/plinnk
+https://github.com/Manojgoudah/lab7a/blob/master/lab7bb.png
+lab7bbb-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7bbb.png
+lab7bbbb-o/plink
+https://github.com/Manojgoudah/lab7a/blob/master/lab7bbbb.png
